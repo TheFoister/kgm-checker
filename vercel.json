@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": {
+    "N8N_WEBHOOK_URL": "https://n8n.evren8n.com/webhook/kgm-query"
+  }
+}
